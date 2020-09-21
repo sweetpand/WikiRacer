@@ -19,3 +19,5 @@ python wikiracer.py '{"start": "https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9
 
 ### Example results and times
 Times may vary due to internet connection.
+
+![image](https://github.com/sweetpand/WikiRacer/blob/master/Screen%20Shot%202020-09-21%20at%2010.53.48%20AM.png)
